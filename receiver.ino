@@ -69,6 +69,14 @@ void loop() {
             default:{
               }
             }
+/*STARCICU
+// tu moras samo dodati sljedeci snippet
+i napraviti iznad svega int <vrijednost>
+case uredjaj_ID (koji definiras u .h fileu):{
+              vrijednost_koju_cemo_slati_na_komp = value;
+              break;
+              }
+*/
 
 /* moguci problem
  *  ako HC12 cijelo vrijeme prima vrijednosti, onda nikad while nece zavrsiti sto znaci

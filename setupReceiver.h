@@ -12,3 +12,6 @@ SoftwareSerial HC12(HC12TxdPin, HC12RxdPin);
 #define LAMBDA_SENSOR_ID 0x05 
 #define ENGINE_RPM_ID 0x06
 #define ACCELEROMETER_ID 0x07
+
+//STARCICU TU DODAJ ADRESE^^^^^^^^^^^^^^^^^^^^^^^^^
+// #define uredjaj_ID <adresa>
